@@ -1,5 +1,5 @@
 # fetch basic image
-FROM us.icr.io/cdt-common-rns/base-images/ubi8-ibmjre:20210202.0858
+FROM us.icr.io/cdt-common-rns/base-images/ubi8-ibmjre:20210217.1642
 
 WORKDIR /
 
