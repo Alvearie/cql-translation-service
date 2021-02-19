@@ -2,7 +2,7 @@ replicaCount: 1
 annotations:
   TOOLCHAIN_ID: null
   GIT_URL: null
-  GIT_BRANCH: docker-image-update
+  GIT_BRANCH: null
   GIT_COMMIT: null
   USER_NAME: null
   APPLICATION_VERSION: null
